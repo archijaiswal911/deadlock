@@ -3,7 +3,7 @@
 
 **Project:** Deadlock in Operating Systems (Java Example)  
 **Author(s):** Archi Jaiswal & Team  
-**Guide:** [Add Guide Name]  
+**Guide:** Vinam Tomar
 **Institute:** SRM Institute of Science & Technology — Delhi NCR Campus
 
 ---
